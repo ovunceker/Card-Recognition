@@ -1,6 +1,6 @@
 Hello everyone,
 
-After I finished my Machine Learning courses I took over the summer, I decided to do a project by myself and I want this project to related to something I like. And then I decided
+After I finished my Machine Learning courses I took over the summer, I decided to do a project by myself and I want this project to related to something I like. And then I realized
 working with a deck of cards would be a great fit. So now there is my first ever Machine Learning project. The main idea of this project is that it inroduces a deep learning model 
 built with TensorFlow which classifies/recognizes a card from its picture. 
 
