@@ -5,7 +5,7 @@ working with a deck of cards would be a great fit. So now there is my first ever
 built with TensorFlow which classifies/recognizes a card from its picture. 
 
 Since I'm very new to the coding and ML projects, I regard the notes from the course [Advance Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms) as a 
-template and then built my model on it. However, the notes I had was classifying handwritten numbers from 0,1,..,9 whereas my project classifies 52 different cards. That's why after 
+template and then built my model on it. However, the notes I had was classifying handwritten numbers 0,1,..,9 whereas my project classifies 52 different cards. That's why after 
 some point on, code changed drastically from the original template. 
 
 Since I wanted to be involved in every step of this project, I collected most of the data online but I also included some pictures I took. I also used pictures taken by me while 
